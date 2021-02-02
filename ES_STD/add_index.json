@@ -1,8 +1,8 @@
 {
   "settings": {
      "index" : {
-       "number_of_shards": 3,
-       "number_of_replicas": 3
+       "number_of_shards": 3,  //  分片
+       "number_of_replicas": 3  // 副本
      }
   }
 }
